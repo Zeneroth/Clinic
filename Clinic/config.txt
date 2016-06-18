@@ -1,0 +1,2 @@
+﻿csvpath="clinic.csv"
+email="pattagok@gmail.com"
