@@ -1,0 +1,12 @@
+c:\users\gok\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Debug\Clinic.exe.config
+c:\users\gok\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Debug\Clinic.exe
+c:\users\gok\documents\visual studio 2015\Projects\Clinic\Clinic\bin\Debug\Clinic.pdb
+c:\users\gok\documents\visual studio 2015\Projects\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
+c:\users\gok\documents\visual studio 2015\Projects\Clinic\Clinic\obj\Debug\Clinic.Form1.resources
+c:\users\gok\documents\visual studio 2015\Projects\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+c:\users\gok\documents\visual studio 2015\Projects\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.Cache
+c:\users\gok\documents\visual studio 2015\Projects\Clinic\Clinic\obj\Debug\Clinic.exe
+c:\users\gok\documents\visual studio 2015\Projects\Clinic\Clinic\obj\Debug\Clinic.pdb
+D:\Clinic\Clinic\bin\Debug\Clinic.exe.config
+D:\Clinic\Clinic\obj\Debug\Clinic.exe
+D:\Clinic\Clinic\obj\Debug\Clinic.pdb
