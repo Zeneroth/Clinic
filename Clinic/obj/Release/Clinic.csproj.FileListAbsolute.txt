@@ -6,3 +6,4 @@ D:\Clinic\Clinic\obj\Release\Clinic.Properties.Resources.resources
 D:\Clinic\Clinic\obj\Release\Clinic.csproj.GenerateResource.Cache
 D:\Clinic\Clinic\obj\Release\Clinic.exe
 D:\Clinic\Clinic\obj\Release\Clinic.pdb
+D:\Clinic\Clinic\obj\Release\Clinic.csprojResolveAssemblyReference.cache

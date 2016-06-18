@@ -1,4 +1,4 @@
 csvpath=C:\Users\Gok\Desktop\clinic.csv
 
-email="pattagok@gmail.com"
+email=
 
