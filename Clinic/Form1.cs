@@ -36,6 +36,8 @@ namespace Clinic
 
         private void searchButtonClick(object sender, EventArgs e)
         {
+            if (nameTextBox.Text.Length == 0)
+                return;
             if (CSVPath.Length == 0)
             {
                 MessageBox.Show("CSV path is not set!");
@@ -71,6 +73,7 @@ namespace Clinic
             }
 
             register(registerName.Text, registerNumber.Text);
+            FetchLastRecord();
         }
 
         private string previousNumber = "";
@@ -101,6 +104,37 @@ namespace Clinic
             CSVFiletextBox.Text = CSVPath;
             emailTextBox.Text = backupEmail;
             Console.WriteLine("csv=" + CSVPath + " email=" + backupEmail);
+        }
+
+        //Fetch Last Register Record
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FetchLastRecord();
+        }
+
+        private void FetchLastRecord() {
+            if (CSVPath.Length == 0)
+            {
+                MessageBox.Show("CSV path is not set!");
+                return;
+            }
+            try
+            {
+                LastRecordRichTextBox.Text = "";
+                string[] lines = File.ReadAllLines(CSVPath);
+
+                int LastResultCount = 15;
+                for (int i = 0; i < LastResultCount; i++)
+                {
+                    string[] filtered = lines[lines.Length - 1 - i].Split(',');
+                    LastRecordRichTextBox.AppendText(filtered[0] + " " + filtered[1] + "\n");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error is " + ex.ToString());
+                throw;
+            }
         }
     }
 }

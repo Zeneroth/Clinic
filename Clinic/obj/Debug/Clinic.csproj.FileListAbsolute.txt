@@ -16,3 +16,12 @@ D:\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
 D:\Clinic\Clinic\obj\Debug\Clinic.Form1.resources
 D:\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
 D:\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.Cache
+C:\Users\GarkoZ\Source\Repos\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\GarkoZ\Source\Repos\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\GarkoZ\Source\Repos\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\GarkoZ\Source\Repos\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\GarkoZ\Source\Repos\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\GarkoZ\Source\Repos\Clinic\Clinic\obj\Debug\Clinic.csprojResolveAssemblyReference.cache
+C:\Users\GarkoZ\Source\Repos\Clinic\Clinic\obj\Debug\Clinic.Form1.resources
+C:\Users\GarkoZ\Source\Repos\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+C:\Users\GarkoZ\Source\Repos\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.Cache

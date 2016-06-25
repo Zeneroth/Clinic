@@ -1,4 +1,4 @@
-csvpath=C:\Users\Gok\Desktop\clinic.csv
+csvpath=C:\Users\GarkoZ\Desktop\Clinic\clinicnew.csv
 
-email="pattagok@gmail.com"
+email=
 
